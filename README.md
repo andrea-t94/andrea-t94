@@ -22,7 +22,7 @@
 ### 👋 Hi, I’m Andrea
 
 - 🤖 Building, scaling, and shipping machine learning and AI systems—especially those that help people and businesses make smarter decisions.
-- 🛠️ Currently working on [CalmoAI](https://getcalmo.com) (AI for mental well-being) and at Flix (MarTech, Data & ML).
+- 🛠️ Currently working on [CalmoAI](https://getcalmo.com) (AI that enables operations and product teams to autonomously investigate and diagnose customer issues) and at Flix (MarTech, Data & ML).
 - 🧠 Interested in causal inference, data engineering, LLMs, and practical ML for real-world impact.
 - 🌍 Remote-first, based in Europe.
 
@@ -57,8 +57,6 @@
 
 - **[CalmoAI](https://getcalmo.com):** AI for mental well-being
 - **Flix:** Data & ML for smarter travel
-- **Open Source:** [MLflow Bootstrapper](https://github.com/andrea-t94/mlflow-bootstrapper), [LLM Tweet Sentiment](https://github.com/andrea-t94/llm-tweet-sentiment)
-
 
 ---
 
