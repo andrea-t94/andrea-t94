@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=100&multiline=true&center=true&vCenter=true&width=600&height=80&lines=Andrea+Tamburri;Machine+Learning+Engineer+%7C+AI+%7C+Data" alt="Andrea Tamburri Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://getcalmo.com">
-    <img src="https://img.shields.io/badge/CalmoAI-Live-blueviolet?style=flat-square">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:tamburriandrea1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/andrea-t94">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
-  </a>
-</p>
-
----
-
 ### 👋 Hi, I’m Andrea
 
 - 🤖 Building, scaling, and shipping machine learning and AI systems—especially those that help people and businesses make smarter decisions.
